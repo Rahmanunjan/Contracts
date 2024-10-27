@@ -1,3 +1,9 @@
+## Rentzimise
+- Decentralising rent deposits by implementing a time conditioned and multisig esscrow smart contract.
+- Providing profits by allowing tenants to stake their rent deposits and borrowers provide collateral.
+- Solving rental disputes speedily through a DAO
+
+
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
